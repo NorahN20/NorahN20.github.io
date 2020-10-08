@@ -1,0 +1,60 @@
+
+
+body{
+    background-image: url("989.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
+    
+}
+h2{ color: cadetblue
+    
+}
+ul{
+    
+    list-style: square inside ;
+  
+    
+}
+    
+
+    
+ ol {
+  list-style-type:lower-alpha;
+}
+
+
+
+a:link {
+  text-decoration: none;
+}
+a:visited {
+    color:red;
+}
+a:active {
+  color: blue;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+}
+a:hover {
+  color:green;
+}
+
+a:active {
+  color:black;
+}
+p{
+    
+   color:darkslateblue; font-size: 18px; 
+    
+}
