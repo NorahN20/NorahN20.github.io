@@ -5,7 +5,7 @@ body{
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
-  background-attachment: fixed;
+  background-attachment:fixed;
     
 }
 h1{color: darkred; font-family: cursive}
